@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="150"
+   viewBox="0 0 79.37499 39.687495"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="MS3-PP.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2"
+     inkscape:cx="169.25"
+     inkscape:cy="-5.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true">
+    <inkscape:grid
+       id="grid22"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.2645833"
+       spacingy="0.2645833"
+       empcolor="#767676"
+       empopacity="0.25098039"
+       color="#a3a3a3"
+       opacity="0.1254902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter98"
+       x="-0.0256584"
+       y="-0.054031704"
+       width="1.0513168"
+       height="1.1080634">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.80212823"
+         id="feGaussianBlur98" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g98">
+      <rect
+         style="font-variation-settings:normal;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.828766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter98);stop-color:#000000"
+         id="rect97"
+         width="75.028366"
+         height="35.629227"
+         x="2.4945378"
+         y="2.470767"
+         transform="matrix(0.9737497,0,0,0.94201183,2.0792285,2.1527683)" />
+      <rect
+         style="font-variation-settings:normal;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#a5a5a5;stroke-width:0.06614583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect97-9"
+         width="75.028366"
+         height="35.629223"
+         x="2.2093511"
+         y="2.0983407" />
+    </g>
+    <g
+       id="g100"
+       transform="translate(0.32122787,0.44163425)">
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#a7a7a7;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 10.583331,5.2916657 H 68.791655 V 15.874997 H 10.583331 Z"
+         id="path98" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#a7a7a7;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 21.166663,23.812496 v 10.58333 h 37.04166 v -10.58333 z"
+         id="path99"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="15.006814"
+         y="13.180935"
+         id="text99"><tspan
+           sodipodi:role="line"
+           id="tspan99"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.264583px"
+           x="15.006814"
+           y="13.180935">Enter Your Title</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="31.507109"
+         y="31.5898"
+         id="text100"><tspan
+           sodipodi:role="line"
+           id="tspan100"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.264583px"
+           x="31.507109"
+           y="31.5898">Here</tspan></text>
+    </g>
+  </g>
+</svg>

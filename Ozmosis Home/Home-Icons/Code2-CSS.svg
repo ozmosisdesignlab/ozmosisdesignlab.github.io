@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   role="img"
+   aria-labelledby="css-logo-title css-logo-description"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Code2-CSS.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.594"
+     inkscape:cx="206.08532"
+     inkscape:cy="173.46299"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="css-logo-title">CSS Logo</title>
+  <desc
+     id="css-logo-description">A purple square with rounded corners and the letters CSS inside in white</desc>
+  <path
+     id="bg"
+     fill="#663399"
+     d="m 0,0 h 252 a 48,48 0 0 1 48,48 v 204 a 48,48 0 0 1 -48,48 H 48 A 48,48 0 0 1 0,252 Z"
+     style="stroke-width:0.999999" />
+  <path
+     id="fg"
+     fill="#ffffff"
+     d="M 107.43,276 C 88.161,275.982 76.272,265.131 76.5,245.163 c 0,0 0,-50.517 0,-50.517 0,-10.122 2.964,-17.82 8.892,-23.088 10.647,-10.257 35.349,-10.881 45.777,0.156 6.426,5.667 8.85,17.244 8.274,28.047 h -22.116 c 0.168,-4.245 -0.057,-10.674 -2.553,-13.095 -3.243,-4.389 -11.808,-3.873 -14.073,0.696 -1.392,2.478 -2.088,6.147 -2.088,11.001 v 43.854 c 0,9.195 3.195,13.845 9.588,13.947 2.988,0 5.259,-1.086 6.804,-3.255 2.157,-2.574 2.493,-8.274 2.319,-12.396 h 22.116 c 1.512,21.021 -10.896,35.748 -32.013,35.487 z m 70.212,0 c -21.351,0.294 -30.903,-14.898 -30.312,-35.487 h 20.877 c -0.579,8.976 2.505,17.151 9.897,16.581 3.297,0 5.619,-1.032 6.96,-3.099 2.55,-3.777 3.027,-14.685 -0.618,-18.906 -2.547,-4.065 -11.709,-7.653 -16.548,-10.071 -6.909,-3.306 -11.883,-7.23 -14.925,-11.778 -6.861,-10.092 -6.225,-32.244 3.402,-41.22 9.354,-11.076 33.783,-11.586 43.146,-0.231 5.775,5.853 8.298,17.37 7.809,27.969 h -20.106 c 0.171,-4.356 -0.24,-11.385 -1.932,-13.947 -1.185,-2.169 -3.429,-3.255 -6.726,-3.255 -5.877,0 -8.814,3.513 -8.814,10.536 0.063,7.458 2.97,10.518 9.744,13.635 8.772,3.408 19.926,9.228 23.97,16.272 12.06,21.462 3.786,54.246 -25.827,52.995 z m 67.428,0 c -21.351,0.294 -30.903,-14.898 -30.312,-35.487 h 20.877 c -0.579,8.976 2.505,17.151 9.897,16.581 3.297,0 5.619,-1.032 6.96,-3.099 2.55,-3.777 3.027,-14.685 -0.618,-18.906 -2.547,-4.065 -11.709,-7.653 -16.548,-10.071 -6.909,-3.306 -11.883,-7.23 -14.925,-11.778 -6.861,-10.092 -6.225,-32.244 3.402,-41.22 9.354,-11.076 33.783,-11.586 43.146,-0.231 5.775,5.853 8.298,17.37 7.809,27.969 h -20.106 c 0.171,-4.356 -0.24,-11.385 -1.932,-13.947 -1.185,-2.169 -3.429,-3.255 -6.726,-3.255 -5.877,0 -8.814,3.513 -8.814,10.536 0.063,7.458 2.97,10.518 9.744,13.635 8.772,3.408 19.926,9.228 23.97,16.272 12.06,21.462 3.786,54.246 -25.827,52.995 z"
+     style="stroke-width:0.999999" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>CSS Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
