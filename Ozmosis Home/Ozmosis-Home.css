@@ -11,7 +11,8 @@ body {
 	flex-direction: column;
 	width: 100%;
 	background-color: #ffffff;
-	font-family: Century Gothic, sans-serif;
+	font-family: "century-gothic", sans-serif;
+	font-style: normal;
 	
 	-ms-overflow-style: none;  /* Hide scrollbar for IE and Edge */
 	scrollbar-width: none;  /* Hide scrollbar for Firefox */
@@ -1179,5 +1180,6 @@ footer.fade {
 }
 
 /* ------------------------- 808 px END ------------------------- */
+
 
 /* ---------------------------------------------------- MEDIA Queries Medium END -------------------------------------------------------- */
