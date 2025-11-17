@@ -258,7 +258,7 @@ body::-webkit-scrollbar {
 	text-align: center;
 	text-decoration: none;
 	color: #FFFFFF;
-	font-family: Century Gothic, sans-serif;
+	font-family: "century-gothic", sans-serif;
 	font-weight: bold;
 	font-size: calc(13vh - 2vw); /* latest: 10vh;  */ /* 2vw original for small nav */
 	/* font-size: 2em; */    /* original for small nav */
@@ -1603,4 +1603,5 @@ footer.fade {
 /* ------------------------- 320 px END ------------------------- */
 
 /* ---------------------------------------------------- MEDIA Queries TINIER END -------------------------------------------------------- */
+
 
