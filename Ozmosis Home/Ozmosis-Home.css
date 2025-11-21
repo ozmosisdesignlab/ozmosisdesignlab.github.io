@@ -345,7 +345,9 @@ body.fade {
 	padding: 1em;
 	margin-top: 2em;
 	margin-bottom: 2em;
-	opacity: 1;			
+	opacity: 1;	
+
+	cursor: pointer;
 	
 	-webkit-transition: .20s ease-in-out;
 	-moz-transition: .20s ease-in-out;
@@ -484,7 +486,6 @@ body.fade {
 	border-bottom: 1.2em solid black;
 	border-top: 1em solid transparent;
 
-	cursor: pointer;
 	transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	
@@ -1183,5 +1184,6 @@ footer.fade {
 
 
 /* ---------------------------------------------------- MEDIA Queries Medium END -------------------------------------------------------- */
+
 
 
