@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Ozmosis About</title>
 </head>
-<body>
+<body id="pageshow1">
 	<header>
 		<div class="centersize header">
 				<picture>
@@ -44,7 +44,7 @@
 			</nav>
 		</div>	
 	</header>
-	<main class="pagewrap">
+	<main class="pagewrap" id="pageshow2">
 		<section class="centersize">
 			<article class="gridcontainer1">
 				<p class="initialchar"><span style="font-weight: bold;">OZMOSIS</span> 
@@ -61,7 +61,7 @@
 			</article>
 		</section>
 	</main>	
-	<footer>
+	<footer id="pageshow3">
 		<div class="rainbow"><span style="-webkit-text-fill-color: white; text-fill-color: white;">powered by</span> OZMOSIS &copy; 2025</div>
 	</footer>
 	
@@ -156,6 +156,23 @@
 				
 	<!-- MAIN FADE END -->
 	
+	<!-- PAGE FADE RESET START -->
+		<script>
+			window.addEventListener('pageshow', function (event) {
+				if (event.persisted) {
+					var opaque1 = document.getElementById('pageshow1');
+					opaque1.classList.remove('fade');
+
+					var opaque2 = document.getElementById('pageshow2');
+					opaque2.classList.remove('fade');
+
+					var opaque3 = document.getElementById('pageshow3');
+					opaque3.classList.remove('fade');
+				}
+			});
+		</script>
+	<!-- PAGE FADE RESET END -->
+	
 	<!-- TINY PAGE FADE OUT START -->
 		
 		<script>
@@ -189,5 +206,6 @@
 </body>
 
 </html>
+
 
 
