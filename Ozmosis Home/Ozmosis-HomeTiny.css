@@ -1450,7 +1450,7 @@ footer.fade {
 @media screen and (max-width: 386px) {
 	
 	#skills {
-		margin-top: -43.5em;
+		margin-top: -42em;
 	}
 	
 }
@@ -1464,7 +1464,10 @@ footer.fade {
 	#nav ul li a {
 		font-size: calc(13vh - 6vw);
 	}
-
+	
+	#skills {
+		margin-top: -44em;
+	}
 }
 
 /* ------------------------- 381 px END ------------------------- */
@@ -1484,11 +1487,6 @@ footer.fade {
 /* ------------------------- 346 px START ------------------------- */
 
 @media screen and (max-width: 346px) {
-	
-	#skills {
-		margin-top: -47em;
-	}
-	
 	
 	#push1.open1 {
 		margin-top: 4em;
@@ -1552,7 +1550,11 @@ footer.fade {
 /* ------------------------- 345 px START ------------------------- */
 
 @media screen and (max-width: 345px) {
-
+	
+	#skills {
+		margin-top: -45em;
+	}
+	
 	#nav ul li a {
 		font-size: calc(13vh - 6vw);
 	}
@@ -1563,7 +1565,7 @@ footer.fade {
 
 /* ------------------------- 344 px START ------------------------- */
 
-@media screen and (max-width: 345px) {
+@media screen and (max-width: 344px) {
 
 	#nav ul li a {
 		font-size: calc(10vh - 6vw);
@@ -1573,12 +1575,24 @@ footer.fade {
 
 /* ------------------------- 344 px END ------------------------- */
 
+	/* ------------------------- 343 px START ------------------------- */
+
+@media screen and (max-width: 343px) {
+
+	#skills {
+		margin-top: -47.5em;
+	}
+
+}
+
+/* ------------------------- 343 px END ------------------------- */
+	
 /* ------------------------- 332 px START ------------------------- */
 
 @media screen and (max-width: 332px) {
 	
 	#skills {
-		margin-top: -50.5em;
+		margin-top: -49em;
 	}
 	
 	#nav ul li a {
@@ -1588,24 +1602,67 @@ footer.fade {
 
 /* ------------------------- 332 px END ------------------------- */
 
+/* ------------------------- 331 px START ------------------------- */
+
+@media screen and (max-width: 331px) {
+	
+	#skills {
+		margin-top: -50em;
+	}
+	
+}
+
+/* ------------------------- 331 px END ------------------------- */
+
+/* ------------------------- 330 px START ------------------------- */
+
+@media screen and (max-width: 330px) {
+	
+	#skills {
+		margin-top: -51em;
+	}
+	
+}
+
+/* ------------------------- 330 px END ------------------------- */
+
+/* ------------------------- 329 px START ------------------------- */
+
+@media screen and (max-width: 329px) {
+	
+	#skills {
+		margin-top: -52em;
+	}
+	
+}
+
+/* ------------------------- 329 px END ------------------------- */
+
 /* ------------------------- 328 px START ------------------------- */
 
 @media screen and (max-width: 328px) {
 	
 	#skills {
-		margin-top: -53em;
+		margin-top: -52.5em;
 	}
 }
 
 /* ------------------------- 328 px END ------------------------- */
 
+/* ------------------------- 321 px START ------------------------- */
+
+@media screen and (max-width: 321px) {
+	
+	#skills {
+		margin-top: -54.5em;
+	}
+}
+
+/* ------------------------- 321 px END ------------------------- */
+	
 /* ------------------------- 320 px START ------------------------- */
 
 @media screen and (max-width: 320px) {
-	
-	#skills {
-		margin-top: -55.5em;
-	}
 	
 	#nav ul li a {
 		font-size: calc(13vh - 10vw);
@@ -1615,6 +1672,7 @@ footer.fade {
 /* ------------------------- 320 px END ------------------------- */
 
 /* ---------------------------------------------------- MEDIA Queries TINIER END -------------------------------------------------------- */
+
 
 
 
