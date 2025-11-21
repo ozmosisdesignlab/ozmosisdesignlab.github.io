@@ -599,8 +599,8 @@ footer.fade {
 	width: auto;
 	height: auto;
 	opacity: 0;
-	animation: pagelight5 1s 0.75s forwards;
-	-webkit-animation: pagelight5 1s 0.75s forwards;
+	animation: pagelight5 1s 0.75s forwards, bounce1 0.4s 3.5s ease-in-out;
+	-webkit-animation: pagelight5 1s 0.75s forwards, bounce1 0.4s 3.5s ease-in-out;
 }
 .s2 {
 	opacity: 0;
@@ -782,7 +782,16 @@ footer.fade {
 	100% {opacity: 0; visibility: hidden;}
 }
 
-
+@keyframes bounce1 {
+	0% {transform: scale(1.0);}
+	50% {transform: scale(1.2);}
+	100% {transform: scale(1.0);
+}
+@-webkit-keyframes bounce1 {
+	0% {-webkit-transform: scale(1.0);}
+	50% {-webkit-transform: scale(1.2);}
+	100% {-webkit-transform: scale(1.0);}
+}
 
 /* ---------------------------------------- SUCCESS PAGE END -------------------------------------- */
 
@@ -848,5 +857,6 @@ footer.fade {
 /* ------------------------- 320 px END ------------------------- */
 
 /* ---------------------------------------- SUCCESS PAGE Media Queries END -------------------------------------- */
+
 
 
