@@ -47,7 +47,7 @@
 	<main class="pagewrap">
 		<section>
 			<div class="centersize position">
-				<form action="https://api.web3forms.com/submit" method="POST" class="contactcard">
+				<form action="https://api.web3forms.com/submit" method="POST" class="contactcard" id="contactform">
 					<h1 class="contact_title"><span class="contact_title_span">Let's talk</span></h1>
 					
 					<input type="hidden" name="apikey" value="9d66b34b-a26e-4424-a404-71436357649a">
@@ -58,7 +58,9 @@
 					
 					<input type="text" name="name" placeholder="Name" class="field" required>
 					<input type="email" name="email" placeholder="Email" class="field" required>
-					<textarea name="message" placeholder="Write A Message Here" class="field textbox" required></textarea>	
+					<textarea name="message" placeholder="Write A Message Here" class="field textbox" required></textarea>
+
+					<div class="h-captcha" data-captcha="true"></div>
 					
 					<button type="submit" class="submit">SEND <img src="Ozmosis Contact/paperplane1.svg" alt=""></button>
 				</form>
@@ -272,6 +274,23 @@
 		</script>
 	
 	<!-- TINY PAGE FADE OUT END -->	
+
+	<!-- h-captcha START -->	
+		<script>
+			const form = document.geElementByID("contactform");
+
+			form.addEventListener('submit', function(e) {
+				const hCaptcha = form.querySelector('textarea[name=h-captcha-response]').value;
+
+				if (!hCaptcha) {
+					e.preventDefault();
+					alert("Please fill out captcha field")
+					return
+				}
+			});
+		</script>
+
+	<!-- h-captcha END -->	
 	
 <!-- -------------------------------------------------------------------- -->
 <!-- JAVASCRIPT SECTION  END -->
@@ -282,6 +301,7 @@
 </body>
 
 </html>
+
 
 
 
