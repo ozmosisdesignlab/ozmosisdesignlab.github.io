@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Ozmosis Photos</title>
 </head>
-<body>
+<body id="pageshow1">
 	<header>
 		<div class="centersize header">
 				<picture>
@@ -44,7 +44,7 @@
 			</nav>
 		</div>
 	</header>
-	<main class="pagewrap">
+	<main class="pagewrap" id="pageshow2">
 		<section>
 			<div class="gridcontainer">
 				<video width="100%" height="auto" muted loop preload="auto" onmouseover="this.play()" onmouseout="this.pause()" poster="Ozmosis Photos/Photos-Videos/PoconosPoster1.jpg" class="bubbleup">
@@ -80,7 +80,7 @@
 			</div>
 		</section>
 	</main>	
-	<footer>
+	<footer id="pageshow3">
 		<div class="rainbow"><span style="-webkit-text-fill-color: white; text-fill-color: white;">powered by</span> OZMOSIS &copy; 2025</div>
 	</footer>
 	
@@ -175,6 +175,23 @@
 								
 	<!-- MAIN FADE END -->
 	
+	<!-- PAGE FADE RESET START -->
+		<script>
+			window.addEventListener('pageshow', function (event) {
+				if (event.persisted) {
+					var opaque1 = document.getElementById('pageshow1');
+					opaque1.classList.remove('fade');
+
+					var opaque2 = document.getElementById('pageshow2');
+					opaque2.classList.remove('fade');
+
+					var opaque3 = document.getElementById('pageshow3');
+					opaque3.classList.remove('fade');
+				}
+			});
+		</script>
+	<!-- PAGE FADE RESET END -->
+	
 	<!-- TINY PAGE FADE OUT START -->
 		
 		<script>
@@ -208,5 +225,6 @@
 </body>
 
 </html>
+
 
 
